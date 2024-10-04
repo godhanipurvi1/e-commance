@@ -11,14 +11,17 @@ This is a Flutter-based e-commerce application that showcases a variety of produ
 
 ## Screenshots
 
+<img src="https://github.com/user-attachments/assets/78256ffc-54fe-4880-bd74-85746fd0578e" alt="07" width="300" height="500">
+<img src="https://github.com/user-attachments/assets/78256ffc-54fe-4880-bd74-85746fd0578e" alt="07" width="300" height="500">
+<img src="https://github.com/user-attachments/assets/091edfaa-f0a9-4703-b112-5645e9812534" alt="02" width="300" height="500">
+<img src="https://github.com/user-attachments/assets/52d93c4f-8d8a-44a3-90cb-dccb05579c6c" alt="03" width="300" height="500">
+<img src="https://github.com/user-attachments/assets/0df41e06-8057-4eba-9443-3156b045894a" alt="04" width="300" height="500">
+<img src="https://github.com/user-attachments/assets/8c8176d4-837f-4cba-9432-2ae0f80b7575" alt="05" width="300" height="500">
+<img src="https://github.com/user-attachments/assets/7fc4cd95-098d-408a-a5cd-dc97d70d0da0" alt="06" width="300" height="500">
 
-![07](https://github.com/user-attachments/assets/78256ffc-54fe-4880-bd74-85746fd0578e)
-![06](https://github.com/user-attachments/assets/7fc4cd95-098d-408a-a5cd-dc97d70d0da0)
-![05](https://github.com/user-attachments/assets/8c8176d4-837f-4cba-9432-2ae0f80b7575)
-![04](https://github.com/user-attachments/assets/0df41e06-8057-4eba-9443-3156b045894a)
-![03](https://github.com/user-attachments/assets/52d93c4f-8d8a-44a3-90cb-dccb05579c6c)
-![02](https://github.com/user-attachments/assets/091edfaa-f0a9-4703-b112-5645e9812534)
-![01](https://github.com/user-attachments/assets/fbab802c-9c0f-4f4d-a7d9-d1ebb2410e2b)
+
+
+
 
 ## Getting Started
 
