@@ -11,7 +11,7 @@ This is a Flutter-based e-commerce application that showcases a variety of produ
 
 ## Screenshots
 ![01]()
-<img src="https://github.com/user-attachments/assets/649872d3-2014-41e0-a12b-39de92f4e5f0" alt="07" width="150" height="300">
+<img src="https://github.com/user-attachments/assets/649872d3-2014-41e0-a12b-39de92f4e5f0" alt="07" width="150" height="300">\n
 <img src="https://github.com/user-attachments/assets/78256ffc-54fe-4880-bd74-85746fd0578e" alt="07" width="150" height="300">
 <img src="https://github.com/user-attachments/assets/091edfaa-f0a9-4703-b112-5645e9812534" alt="02" width="150" height="300">
 <img src="https://github.com/user-attachments/assets/52d93c4f-8d8a-44a3-90cb-dccb05579c6c" alt="03" width="150" height="300">
